@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'DOST-ASTI HR Lite Payroll Documentation'
+project = 'DOST-ASTI HR Lite Payroll Module'
 copyright = '2024, Jvergel Mandane'
 author = 'Jvergel Mandane'
 
