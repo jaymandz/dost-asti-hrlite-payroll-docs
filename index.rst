@@ -4,13 +4,14 @@
    contain the root `toctree` directive.
 
 Welcome to DOST-ASTI HR Lite Payroll Module's documentation!
-===================================================================
+============================================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-
+   introduction/index
+   additional-adjustments/index
 
 Indices and tables
 ==================
