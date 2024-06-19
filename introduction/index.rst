@@ -3,4 +3,5 @@ Introduction
 
 .. figure:: illustrations/001.png
 
-   Links to the various payroll-related modules.
+   The Payroll Module box contains links to various payroll-related modules.
+   *(Red lines are only for emphasis, not part of the UI.)*
