@@ -7,8 +7,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'DOST-ASTI HR Lite Payroll Module'
-copyright = '2024, Jvergel Mandane'
-author = 'Jvergel Mandane'
+copyright = '2024, DOST-ASTI Knowledge Management Division'
+author = 'DOST-ASTI Knowledge Management Division'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
