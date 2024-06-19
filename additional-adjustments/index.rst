@@ -1,5 +1,5 @@
-The Additional/Adjustments module
-=================================
+The *Additional/Adjustments* library
+====================================
 
 .. figure:: illustrations/additional-adjustments-page-top.png
 
@@ -17,15 +17,19 @@ How to add a salary adjustment
 .. Note:: Make sure your account has been granted the necessary action for
    this first.
 
-1. In the *Period* field, specify the month, period, and year of the payroll
+1. Go to the *Add Salary Adjustment* form.
+2. In the *Period* field, specify the month, period, and year of the payroll
    you wish to add the salary adjustment to.
-2. Select an employee type in the *Employee Type* field.
-3. Select the employee’s division in the *Division* field.
-4. Select the employee’s project in the *Project Title* field.
-5. Select the employee to grant the salary adjustment to in the *Employee*
+3. Select an employee type in the *Employee Type* field.
+4. Select the employee’s division in the *Division* field.
+5. Select the employee’s project in the *Project Title* field.
+6. Select the employee to grant the salary adjustment to in the *Employee*
    field.
-6. Finally, enter the amount to add to the employee’s salary in the *Amount*
+7. Finally, enter the amount to add to the employee’s salary in the *Amount*
    field.
-7. Click the *Submit* button.
+8. Click the *Submit* button to save the salary adjustment.
 
-The newly entered salary adjustment must appear in the table in the last row.
+If you want to clear the contents of the form (i.e. “reset” it) click on the
+*Cancel* button.
+
+The newly saved salary adjustment must appear in the table in the last row.
