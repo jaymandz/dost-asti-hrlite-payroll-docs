@@ -1,11 +1,17 @@
 The Additional/Adjustments module
 =================================
 
-.. figure:: illustrations/001.png
+.. figure:: illustrations/additional-adjustments-page-top.png
 
-   The Additional/Adjustments module.
+   Top portion of the *Additional/Adjustments* page, showing the *Add Salary
+   Adjustment* form.
 
-HOWTO: Add a salary adjustment
+.. figure:: illustrations/additional-adjustments-page-bottom.png
+
+   Bottom portion of the *Additional/Adjustments* page, showing the salary
+   adjustments table.
+
+How to add a salary adjustment
 ------------------------------
 
 .. Note:: Make sure your account has been granted the necessary action for
