@@ -1,6 +1,13 @@
 The *Additional/Adjustments* library
 ====================================
 
+Introduction
+------------
+
+The *Additional/Adjustments* library is used to attach arbitrary amounts of
+money coming from grants that are otherwise not handled by any other library
+in the Payroll Module to the salaries of employees.
+
 .. figure:: illustrations/additional-adjustments-page-top.png
 
    Top portion of the *Additional/Adjustments* page, showing the *Add Salary
@@ -27,9 +34,7 @@ How to add a salary adjustment
    field.
 7. Finally, enter the amount to add to the employee’s salary in the *Amount*
    field.
-8. Click the *Submit* button to save the salary adjustment.
-
-If you want to clear the contents of the form (i.e. “reset” it) click on the
-*Cancel* button.
-
-The newly saved salary adjustment must appear in the table in the last row.
+8. If you want to clear the contents of the form (i.e. “reset” it) click on
+   the *Cancel* button.
+9. Click the *Submit* button to save the salary adjustment. The newly saved
+   salary adjustment must appear as the last row in the table.
