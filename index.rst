@@ -7,7 +7,7 @@ Welcome to DOST-ASTI HR Lite Payroll Module's documentation!
 ============================================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
 
    introduction/index
