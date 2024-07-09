@@ -12,6 +12,7 @@ Welcome to DOST-ASTI HR Lite Payroll Module's documentation!
 
    introduction/index
    additional-adjustments/index
+   activity-logs/index
 
 Indices and tables
 ==================
