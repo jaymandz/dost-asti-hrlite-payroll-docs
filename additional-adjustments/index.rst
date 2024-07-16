@@ -48,3 +48,26 @@ rows for the latest period are listed first).
 
    Bottom portion of the *Additional/Adjustments* page, showing the salary
    adjustments table.
+
+How to delete a salary adjustment
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. Note:: Make sure your account has been granted the necessary action for
+   this first.
+
+1. Click the delete button (the one with a trash can icon) of any entry in
+   the salary adjustments table that you wish to delete.
+2. A confirm dialog will appear near the top of the window. Click *OK* to
+   proceed with the deletion, or *Cancel* if you wish to stop.
+3. You should see a notification at the bottom right of the page telling
+   you that the deletion was successful.
+
+.. figure:: illustrations/delete-button-and-confirm-dialog.png
+
+   The application will be asking you whether you *actually* want to
+   proceed with the deletion. The location of the delete button is also
+   marked in red.
+
+.. figure:: illustrations/deletion-success-notification.png
+
+   A notification will appear after a successful deletion.
