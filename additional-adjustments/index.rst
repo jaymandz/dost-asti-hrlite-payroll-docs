@@ -49,6 +49,28 @@ rows for the latest period are listed first).
    Bottom portion of the *Additional/Adjustments* page, showing the salary
    adjustments table.
 
+How to edit a salary adjustment
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. Note:: Make sure your account has been granted the necessary action for
+   this first.
+
+1. Click on the update button (the one with a pencil icon) of any entry in the
+   salary adjustments table that you wish to edit.
+2. The salary adjustment’s data will be loaded into the salary adjustment form.
+   You might also notice that the form header now reads *Edit Salary
+   Adjustment* instead of *Add Salary Adjustment*. Make any changes you wish to
+   do in the form, then click the *Submit* button once you’re done.
+
+.. figure:: illustrations/additional-adjustments-update-button-location.png
+
+   Location of the update button.
+
+.. figure:: illustrations/additional-adjustments-data-loaded-into-form.png
+
+   After clicking the update button for your chosen salary adjustment, its data
+   will be loaded into the form.
+
 How to delete a salary adjustment
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
