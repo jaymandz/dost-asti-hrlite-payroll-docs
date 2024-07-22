@@ -16,8 +16,20 @@ The salary adjustment form
    Top portion of the *Additional/Adjustments* page, showing the salary
    adjustment form.
 
+The salary adjustments table
+----------------------------
+
+The *salary adjustments table* is where all the salary adjustments that have
+ever been added are listed. Its rows are sorted by period descending (i.e., the
+rows for the latest period are listed first).
+
+.. figure:: illustrations/additional-adjustments-page-bottom.png
+
+   Bottom portion of the *Additional/Adjustments* page, showing the salary
+   adjustments table.
+
 How to add a salary adjustment
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+------------------------------
 
 .. Note:: Make sure your account has been granted the necessary action for
    this first.
@@ -37,20 +49,8 @@ How to add a salary adjustment
 9. Click the *Submit* button to save the salary adjustment. The newly saved
    salary adjustment must appear as the first row in the table.
 
-The salary adjustments table
-----------------------------
-
-The *salary adjustments table* is where all the salary adjustments that have
-ever been added are listed. Its rows are sorted by period descending (i.e., the
-rows for the latest period are listed first).
-
-.. figure:: illustrations/additional-adjustments-page-bottom.png
-
-   Bottom portion of the *Additional/Adjustments* page, showing the salary
-   adjustments table.
-
 How to edit a salary adjustment
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------------
 
 .. Note:: Make sure your account has been granted the necessary action for
    this first.
@@ -72,7 +72,7 @@ How to edit a salary adjustment
    will be loaded into the form.
 
 How to delete a salary adjustment
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------------
 
 .. Note:: Make sure your account has been granted the necessary action for
    this first.
