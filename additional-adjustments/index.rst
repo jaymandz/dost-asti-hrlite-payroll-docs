@@ -81,8 +81,9 @@ How to delete a salary adjustment
    the salary adjustments table that you wish to delete.
 2. A confirm dialog will appear near the top of the window. Click *OK* to
    proceed with the deletion, or *Cancel* if you wish to stop.
-3. You should see a notification at the bottom right of the page telling
-   you that the deletion was successful.
+
+You should see a notification at the bottom right of the page telling you that
+the deletion was successful.
 
 .. figure:: illustrations/delete-button-and-confirm-dialog.png
 
