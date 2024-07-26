@@ -99,5 +99,5 @@ successful.
 
 .. rubric:: Footnotes
 
-.. [1] “Funding Source Code.” Unified Accounts Code Structure. Accessed July
+.. [1] “Funding Source Code.” Unified Accounts Code Structure. Accessed: July
    23, 2024. [Online.] Available: https://uacs.gov.ph/primer/36/funding-source-code
