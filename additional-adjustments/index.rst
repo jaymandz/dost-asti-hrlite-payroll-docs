@@ -11,7 +11,7 @@ in the Payroll Module to the salaries of employees.
 The salary adjustment form
 --------------------------
 
-.. figure:: illustrations/additional-adjustments-page-top.png
+.. figure:: illustrations/additional-adjustments--page-top.png
 
    Top portion of the *Additional/Adjustments* page, showing the salary
    adjustment form.
@@ -23,7 +23,7 @@ The *salary adjustments table* is where all the salary adjustments that have
 ever been added are listed. Its rows are sorted by period descending (i.e., the
 rows for the latest period are listed first).
 
-.. figure:: illustrations/additional-adjustments-page-bottom.png
+.. figure:: illustrations/additional-adjustments--page-bottom.png
 
    Bottom portion of the *Additional/Adjustments* page, showing the salary
    adjustments table.
@@ -62,11 +62,11 @@ How to edit a salary adjustment
    Adjustment* instead of *Add Salary Adjustment*. Make any changes you wish to
    do in the form, then click the *Submit* button once you’re done.
 
-.. figure:: illustrations/additional-adjustments-update-button-location.png
+.. figure:: illustrations/additional-adjustments--update-button-location.png
 
    Location of the update button.
 
-.. figure:: illustrations/additional-adjustments-data-loaded-into-form.png
+.. figure:: illustrations/additional-adjustments--data-loaded-into-form.png
 
    After clicking the update button for your chosen salary adjustment, its data
    will be loaded into the form.
@@ -85,12 +85,12 @@ How to delete a salary adjustment
 You should see a notification at the bottom right of the page telling you that
 the deletion was successful.
 
-.. figure:: illustrations/delete-button-and-confirm-dialog.png
+.. figure:: illustrations/additional-adjustments--delete-button-and-confirm-dialog.png
 
    The application will be asking you whether you *actually* want to
    proceed with the deletion. The location of the delete button is also
    marked in red.
 
-.. figure:: illustrations/deletion-success-notification.png
+.. figure:: illustrations/additional-adjustments--deletion-success-notification.png
 
    A notification will appear after a successful deletion.

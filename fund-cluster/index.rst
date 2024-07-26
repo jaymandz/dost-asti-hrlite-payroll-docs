@@ -14,7 +14,7 @@ Accounting processes.” [1]_
 The index page
 --------------
 
-.. figure:: illustrations/fund-cluster-index-page.png
+.. figure:: illustrations/fund-cluster--index-page.png
 
    The *Fund Cluster* index page.
 
@@ -36,7 +36,7 @@ list.
 The form page
 -------------
 
-.. figure:: illustrations/fund-cluster-form-page.png
+.. figure:: illustrations/fund-cluster--form-page.png
 
    The *Fund Cluster* form page.
 
@@ -85,7 +85,7 @@ How to delete a Fund Cluster
 2. A confirmation dialog will appear in the top portion of the app. Click *OK*
    if you want to proceed with the deletion, or *Cancel* if you wish to stop.
 
-.. figure:: illustrations/fund-cluster-delete-confirmation-and-button-location.png
+.. figure:: illustrations/fund-cluster--delete-confirmation-and-button-location.png
 
    The confirmation dialog for deleting a Fund Cluster, as well as the location
    of the delete button (marked in red).
@@ -93,7 +93,7 @@ How to delete a Fund Cluster
 A notification will appear on the bottom right of the app if the deletion was
 successful.
 
-.. figure:: illustrations/fund-cluster-deletion-success.png
+.. figure:: illustrations/fund-cluster--deletion-success.png
 
    A notification will appear after the Fund Cluster is successfully deleted.
 
