@@ -46,8 +46,10 @@ How to add a salary adjustment
    field.
 8. If you want to clear the contents of the form (i.e. “reset” it) click on
    the *Cancel* button.
-9. Click the *Submit* button to save the salary adjustment. The newly saved
-   salary adjustment must appear as the first row in the table.
+9. Click the *Submit* button to save the salary adjustment.
+
+A notification will appear in the bottom right of the application if the
+salary adjustment was successfully saved.
 
 How to edit a salary adjustment
 -------------------------------
@@ -61,6 +63,10 @@ How to edit a salary adjustment
    You might also notice that the form header now reads *Edit Salary
    Adjustment* instead of *Add Salary Adjustment*. Make any changes you wish to
    do in the form, then click the *Submit* button once you’re done.
+3. To reset the form, click on the *Cancel* button. The form header will revert
+   back to *Add Salary Adjustment*, and submitting the form will result in the
+   addition of a new salary adjustment this time, not the updating of an
+   existing one.
 
 .. figure:: illustrations/additional-adjustments--update-button-location.png
 
