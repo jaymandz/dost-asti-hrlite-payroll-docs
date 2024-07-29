@@ -1,6 +1,14 @@
 Introduction
 ============
 
+How to use this documentation
+-----------------------------
+
+This documentation is meant to serve both as an encyclopedia and as a user
+manual. You do not need to read through its entirety before using HR Lite and
+the Payroll Module, although you may if you want to. You can study all of it,
+or any part of it, anytime you want.
+
 Libraries
 ---------
 
