@@ -9,6 +9,15 @@ manual. You do not need to read through its entirety before using HR Lite and
 the Payroll Module, although you may if you want to. You can study all of it,
 or any part of it, anytime you want.
 
+This documentation might best serve as a companion while using HR Lite and the
+Payroll Module. The only way to master something is through practice, and this
+documentation was never meant to be a substitute for practice.
+
+Acknowledgments
+---------------
+
+TBD
+
 Libraries
 ---------
 
