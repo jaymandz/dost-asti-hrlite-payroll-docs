@@ -133,7 +133,7 @@ How to delete a project title
    to proceed with the deletion, or *Cancel* if you wish to stop.
 
 .. Warning:: There might be some project titles in the table that do not have a
-   delete button. Its means that the project title is being used in other parts
+   delete button. It means that the project title is being used in other parts
    of the Payroll Module or HR Lite, and you are not allowed to delete them.
 
 .. figure:: illustrations/project-title--delete-confirmation-and-button-location.png
