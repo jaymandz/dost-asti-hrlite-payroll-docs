@@ -22,6 +22,9 @@ The index page is where you will find a list of all the Fund Clusters saved in
 the database, as well as a few buttons that are described in the following
 list.
 
+* The *New* button brings you to an empty form page, where you will be able to
+  add a new Fund Cluster. The form page is described in the
+  :ref:`section-fund-cluster-form-page` section.
 * The *Activate* button sets any Fund Clusters that are selected in the table
   as active. Active Fund Clusters have a value of “Yes” in the *Is Active*
   column.
@@ -30,8 +33,23 @@ list.
   column.
 * The *Download as PDF* button generates a PDF report of all the Fund Clusters
   in the system.
-* The *New* button brings you to an empty form page, where you will be able to
-  add a new Fund Cluster. The form page is described in the next section.
+
+There is also a table listing all the Fund Clusters currently in the system. It
+has three columns:
+
+* *Description*, the description of the Fund Cluster;
+* *As of*, the date when the Fund Cluster was created or last updated; and
+* *Is Active*, whether the Fund Cluster is available for use in other parts of
+  HR Lite and the Payroll Module.
+
+Each row will have a checkbox to its left that can be used to select it, as
+well as two buttons to its right that can be used to either update or delete
+it.
+
+A checkbox is also on the top left corner of the table that can be used to
+select all rows **currently** in the table.
+
+.. _section-fund-cluster-form-page:
 
 The form page
 -------------
@@ -43,6 +61,10 @@ The form page
 The form page is where you will be able to enter or change information about
 any Fund Clusters you wish to add or edit. It has only one field, labeled
 *Description*, which will contain the Fund Cluster’s description.
+
+There are two buttons at the bottom right of the page: the *Cancel* button,
+which resets or clears the form; and the *Submit* button which will submit the
+data in your form.
 
 How to add a Fund Cluster
 -------------------------
@@ -56,7 +78,12 @@ How to add a Fund Cluster
 3. If you want to clear the form and start over, click on the *Cancel* button.
 4. Click on the *Submit* button when you’re done.
 
-The new Fund Cluster should appear in the Fund Cluster table.
+A success notification should appear in the bottom right, and the new Fund
+Cluster must appear in the Fund Cluster table.
+
+.. figure:: illustrations/fund-cluster--creation-success.png
+
+   A notification should appear after a Fund Cluster was successfully created.
 
 How to edit a Fund Cluster
 --------------------------
@@ -71,8 +98,9 @@ How to edit a Fund Cluster
    Cluster. You can change it into anything you wish.
 3. Click on the *Submit* button once done.
 
-The Fund Cluster will have a new description in the table. Its last updated
-date (shown under the *As of* column) will also have changed.
+A success notification will appear on the bottom right, and the Fund Cluster
+will have a new description in the table. Its last updated date (shown under
+the *As of* column) will also have changed.
 
 How to delete a Fund Cluster
 ----------------------------
@@ -87,15 +115,11 @@ How to delete a Fund Cluster
 
 .. figure:: illustrations/fund-cluster--delete-confirmation-and-button-location.png
 
-   The confirmation dialog for deleting a Fund Cluster, as well as the location
-   of the delete button (marked in red).
+   The confirmation dialog for deleting a Fund Cluster (marked in green), as
+   well as the location of the delete button (marked in red).
 
 A notification will appear on the bottom right of the app if the deletion was
 successful.
-
-.. figure:: illustrations/fund-cluster--deletion-success.png
-
-   A notification will appear after the Fund Cluster is successfully deleted.
 
 .. rubric:: Footnotes
 
