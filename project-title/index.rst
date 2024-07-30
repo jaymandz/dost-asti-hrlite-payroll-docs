@@ -18,7 +18,8 @@ The *index page* contains a table listing all the project titles in the system,
 as well as some buttons that will be described in the following list.
 
 * The *New* button brings you to an empty form page, where you will be able to
-  create a new project title. The form page is described in the next section.
+  create a new project title. The form page is described in the
+  :ref:`section-project-title-form-page` section.
 * The *Activate* button sets any project titles that are selected in the table
   as active. Active project titles have a value of “Yes” in the *Is Active*
   column of the table.
@@ -27,6 +28,8 @@ as well as some buttons that will be described in the following list.
   Active* column of the table.
 * The *Download as PDF* button generates a PDF report of all the project titles
   in the system.
+
+.. _section-project-title-form-page:
 
 The form page
 -------------
@@ -58,12 +61,14 @@ It has three fields:
    
    The buttons between the *List of Employees* and *Selected Employees* fields
    are used to move employees back and forth between them. Their functionality
-   will be explained later.
+   is explained in the :ref:`section-project-title-add` section.
 
 The *Cancel* button at the bottom right of the form brings you to the index
 page, where you most likely would have come from before landing in the form
 page. The button next to it submits the contents of the form and will be
 labeled either *Add* or *Edit* depending on what you will be doing.
+
+.. _section-project-title-add:
 
 How to add a project title
 --------------------------
